@@ -4,9 +4,9 @@ Experienced as QA Engineer, Using Java as my main program language, I automated 
 
 ## 📈Stats
 <p align="left">
-<a href="https://github.com/brahmasyahdan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brahmasyahdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brahmasyahdan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/yusril77">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusril77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusril77&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
