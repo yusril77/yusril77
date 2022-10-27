@@ -2,13 +2,10 @@
 Experienced as QA Engineer, Using Java as my main program language, I automated Website, API, and Mobile Tests using tools such as Selenium, Rest Assured and Appium combined with Serenity BDD and Cucumber. And having knowledge about Project Management Tools such a TestRail, Trello.
 
 
-## 📈Stats
-<p align="left">
-<a href="https://github.com/yusril77">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusril77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusril77&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusril77&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusril77&theme=dark)](https://git.io/streak-stats)
 
 
 ### Tech
