@@ -2,6 +2,15 @@
 Experienced as QA Engineer, Using Java as my main program language, I automated Website, API, and Mobile Tests using tools such as Selenium, Rest Assured and Appium combined with Serenity BDD and Cucumber. And having knowledge about Project Management Tools such a TestRail, Trello.
 
 
+## 📈Stats
+<p align="left">
+<a href="https://github.com/brahmasyahdan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brahmasyahdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brahmasyahdan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ### Tech
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
