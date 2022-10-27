@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Muhammad Yusril Fauzan!
-Experienced as QA Engineer (Manual) , Having knowledge to create web automation using Cucumber Selenium. Create mobile (Android) automation using Cucumber Appium. API Testing using Postman, Insomnia and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a TestRail, Trello.
+Experienced as QA Engineer, Using Java as my main program language, I automated Website, API, and Mobile Tests using tools such as Selenium, Rest Assured and Appium combined with Serenity BDD and Cucumber. And having knowledge about Project Management Tools such a TestRail, Trello.
 
 
 ### Tech
