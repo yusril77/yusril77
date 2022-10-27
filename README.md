@@ -12,13 +12,15 @@ Experienced as QA Engineer, Using Java as my main program language, I automated 
 
 
 ### Tech
-![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
-![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
-![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
-![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
-![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java)
+![Selenium Webdriver](https://img.shields.io/badge/-selenium-000000?style=for-the-badge&logo=selenium)
+![Appium](https://img.shields.io/badge/-appium-000000?style=for-the-badge&logo=appium)
+![Cucumber](https://img.shields.io/badge/-cucumber-000000?style=for-the-badge&logo=cucumber)
+![Postman](https://img.shields.io/badge/-postman-000000?style=for-the-badge&logo=postman)
+![Serenity BDD](https://img.shields.io/badge/-serenitybdd-000000?style=for-the-badge&logo=serenitybdd)
+![Rest-Assured](https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=restassured)
+![JMeter](https://img.shields.io/badge/-jmeter-000000?style=for-the-badge&logo=jmeter)
+![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
